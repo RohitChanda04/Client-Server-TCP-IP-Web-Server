@@ -1,0 +1,39 @@
+21:01:28.953 [main] INFO  com.webServer.santaClaraUniversity.WebServer - 
+
+Web Server listening on port 8884
+21:01:32.511 [Thread-0] INFO  com.webServer.santaClaraUniversity.HttpRequest - Current thread Thread-0
+21:01:32.530 [Thread-0] INFO  com.webServer.santaClaraUniversity.HttpRequest - Request body - GET / HTTP/1.1
+21:01:32.532 [Thread-1] INFO  com.webServer.santaClaraUniversity.HttpRequest - Current thread Thread-1
+21:01:32.533 [Thread-0] INFO  com.webServer.santaClaraUniversity.HttpRequest - Requested file /Users/ronnie/Desktop/Projects/com.webserver.pa1.rohitchanda/src/main/resources/document-root/index.html
+21:01:32.534 [Thread-2] INFO  com.webServer.santaClaraUniversity.HttpRequest - Current thread Thread-2
+21:01:32.535 [Thread-3] INFO  com.webServer.santaClaraUniversity.HttpRequest - Current thread Thread-3
+21:01:32.536 [Thread-4] INFO  com.webServer.santaClaraUniversity.HttpRequest - Current thread Thread-4
+21:01:32.536 [Thread-5] INFO  com.webServer.santaClaraUniversity.HttpRequest - Current thread Thread-5
+21:01:32.573 [Thread-1] INFO  com.webServer.santaClaraUniversity.HttpRequest - Request body - GET /media/scuedu/style-assets/stylesheets/f.css HTTP/1.1
+21:01:32.574 [Thread-1] INFO  com.webServer.santaClaraUniversity.HttpRequest - Requested file /Users/ronnie/Desktop/Projects/com.webserver.pa1.rohitchanda/src/main/resources/document-root/media/scuedu/style-assets/stylesheets/f.css
+21:01:32.575 [Thread-2] INFO  com.webServer.santaClaraUniversity.HttpRequest - Request body - GET /assets/images/favicons/manifest.json HTTP/1.1
+21:01:32.576 [Thread-2] INFO  com.webServer.santaClaraUniversity.HttpRequest - Requested file /Users/ronnie/Desktop/Projects/com.webserver.pa1.rohitchanda/src/main/resources/document-root/assets/images/favicons/manifest.json
+21:01:32.578 [Thread-3] INFO  com.webServer.santaClaraUniversity.HttpRequest - Request body - GET /media/institutional-pages/news-amp-events/Claire_Alford_20220921_JG_0153_pp.jpg HTTP/1.1
+21:01:32.578 [Thread-3] INFO  com.webServer.santaClaraUniversity.HttpRequest - Requested file /Users/ronnie/Desktop/Projects/com.webserver.pa1.rohitchanda/src/main/resources/document-root/media/institutional-pages/news-amp-events/Claire_Alford_20220921_JG_0153_pp.jpg
+21:01:32.579 [Thread-4] INFO  com.webServer.santaClaraUniversity.HttpRequest - Request body - GET /media/institutional-pages/news-amp-events/campusbeautystudents.jpg HTTP/1.1
+21:01:32.580 [Thread-4] INFO  com.webServer.santaClaraUniversity.HttpRequest - Requested file /Users/ronnie/Desktop/Projects/com.webserver.pa1.rohitchanda/src/main/resources/document-root/media/institutional-pages/news-amp-events/campusbeautystudents.jpg
+21:01:32.582 [Thread-5] INFO  com.webServer.santaClaraUniversity.HttpRequest - Request body - GET /media/institutional-pages/news-amp-events/Inauguration_20221006_JL_9200.JPG HTTP/1.1
+21:01:32.582 [Thread-5] INFO  com.webServer.santaClaraUniversity.HttpRequest - Requested file /Users/ronnie/Desktop/Projects/com.webserver.pa1.rohitchanda/src/main/resources/document-root/media/institutional-pages/news-amp-events/Inauguration_20221006_JL_9200.JPG
+21:01:32.585 [Thread-6] INFO  com.webServer.santaClaraUniversity.HttpRequest - Current thread Thread-6
+21:01:32.585 [Thread-6] INFO  com.webServer.santaClaraUniversity.HttpRequest - Request body - GET /media/institutional-pages/news-amp-events/190516MRB237_027_Web-Large-2000-px.jpg HTTP/1.1
+21:01:32.586 [Thread-6] INFO  com.webServer.santaClaraUniversity.HttpRequest - Requested file /Users/ronnie/Desktop/Projects/com.webserver.pa1.rohitchanda/src/main/resources/document-root/media/institutional-pages/news-amp-events/190516MRB237_027_Web-Large-2000-px.jpg
+21:01:32.586 [Thread-7] INFO  com.webServer.santaClaraUniversity.HttpRequest - Current thread Thread-7
+21:01:32.586 [Thread-7] INFO  com.webServer.santaClaraUniversity.HttpRequest - Request body - GET /media/institutional-pages/giving/images/campaign-banner.png HTTP/1.1
+21:01:32.587 [Thread-7] INFO  com.webServer.santaClaraUniversity.HttpRequest - Requested file /Users/ronnie/Desktop/Projects/com.webserver.pa1.rohitchanda/src/main/resources/document-root/media/institutional-pages/giving/images/campaign-banner.png
+21:01:32.590 [Thread-9] INFO  com.webServer.santaClaraUniversity.HttpRequest - Current thread Thread-9
+21:01:32.590 [Thread-8] INFO  com.webServer.santaClaraUniversity.HttpRequest - Current thread Thread-8
+21:01:32.590 [Thread-9] INFO  com.webServer.santaClaraUniversity.HttpRequest - Request body - GET /media/institutional-pages/news-amp-events/irinaraicu400x400-360x360.jpg HTTP/1.1
+21:01:32.590 [Thread-8] INFO  com.webServer.santaClaraUniversity.HttpRequest - Request body - GET /media/offices/umc/web-design/crowd-pic-NEW_0001_20211203_Soccer_Fans_4446.jpg HTTP/1.1
+21:01:32.591 [Thread-9] ERROR com.webServer.santaClaraUniversity.HttpRequest - Requested file /Users/ronnie/Desktop/Projects/com.webserver.pa1.rohitchanda/src/main/resources/document-root/media/institutional-pages/news-amp-events/irinaraicu400x400-360x360.jpg does not exist 
+21:01:32.591 [Thread-8] ERROR com.webServer.santaClaraUniversity.HttpRequest - Requested file /Users/ronnie/Desktop/Projects/com.webserver.pa1.rohitchanda/src/main/resources/document-root/media/offices/umc/web-design/crowd-pic-NEW_0001_20211203_Soccer_Fans_4446.jpg does not exist 
+21:01:32.593 [Thread-10] INFO  com.webServer.santaClaraUniversity.HttpRequest - Current thread Thread-10
+21:01:32.594 [Thread-10] INFO  com.webServer.santaClaraUniversity.HttpRequest - Request body - GET /media/institutional-pages/news-amp-events/BSolomon-360x288.jpg HTTP/1.1
+21:01:32.594 [Thread-11] INFO  com.webServer.santaClaraUniversity.HttpRequest - Current thread Thread-11
+21:01:32.594 [Thread-11] INFO  com.webServer.santaClaraUniversity.HttpRequest - Request body - GET /media/institutional-pages/news-amp-events/ackerman-400x400.jpg HTTP/1.1
+21:01:32.594 [Thread-10] INFO  com.webServer.santaClaraUniversity.HttpRequest - Requested file /Users/ronnie/Desktop/Projects/com.webserver.pa1.rohitchanda/src/main/resources/document-root/media/institutional-pages/news-amp-events/BSolomon-360x288.jpg
+21:01:32.594 [Thread-11] INFO  com.webServer.santaClaraUniversity.HttpRequest - Requested file /Users/ronnie/Desktop/Projects/com.webserver.pa1.rohitchanda/src/main/resources/document-root/media/institutional-pages/news-amp-events/ackerman-400x400.jpg
